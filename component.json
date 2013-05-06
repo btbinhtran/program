@@ -1,0 +1,15 @@
+{
+  "name": "tower-program",
+  "repo": "tower/program",
+  "description": "Tower Program component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
